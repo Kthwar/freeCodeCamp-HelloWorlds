@@ -1,0 +1,41 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>How to cook store bought pasta.</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>How to cook store bought pasta</h1>
+    <p>Insert an introduction</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Store bought pasta</li>
+      <li>Salt</li>
+      <li>Water</li>
+      <li>Cooking Cream</li>
+    </ul>
+    <!--
+    <h2>Materials</h2>
+    <ul>
+      <li>Insert Materials</li>
+    </ul>
+    -->
+    <h2>Instructions</h2>
+    <ol>
+      <li>Put water on the pot, enough to make sure the pasta will be fully submerged.</li>
+      <li>Put salt on the water, just enough, you know it's good once it tastes like seawater. (If you don't know the taste, that's okay, a common mistake is to put salt and it tastes a bit "sweet", if that's your case, put more salt, when the "sweetness" disappears, you're golden.</li>
+      <li>Bring the water to a boil (boiling means some large bubbles, but not enough to be scary looking.)</li>
+      <li>Break the pasta, grap the ammount of pasta you want to use, and snap it in half. Be careful as it will jump!</li>
+      <li>Read the instructions for the pasta, and set a timer accordingly, most pasta is 8 minutes for "al dente" (arguably the est texture)</li>
+      <li>Put the pasta on the boiling water and bring the heat down a little, you don't want the water getting hotter, only keep it roughly the same temperature.</li>
+      <li>From time to time move the pasta with a fork so they don't stick together</li>
+      <li>INSERT REST OF RECIPE</li>
+    </ol>
+    <img src="https://www.freecodecamp.org" alt="epic recipe">
+  </body>
+</html>
+
+** end of index.html **
+
